@@ -5,6 +5,7 @@ Welcome to our collection of guides. Here you can find a very complete documenta
 ## Documentation
 
 * [NI SP Knowledge base](https://www.ni-sp.com/knowledge-base/): A complete compilation about NICE DCV and EF Portal (EnginFrame)
+* [NICE DCV Download page](https://www.ni-sp.com/solutions/nice-dcv-download-page/): Download the NICE DCV binaries
 * [NI SP Support page](https://support.ni-sp.com/): Open a ticket with NI SP Support team to get help with our services and scripts
 * [NI SP Contact page](https://www.ni-sp.com/contact/): Send us an e-mail about everything
 
