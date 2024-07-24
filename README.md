@@ -28,8 +28,12 @@ Are you having problem? This script will collect all relevant info about your DC
 * [Entra ID SSO](https://github.com/NISP-GmbH/EF-EntraID-SSO)
 A simple solution that will integrate Entra ID (that supports Windows Hello) and EF Portal (EnginFrame)
 
-### Slurm : [For Linux](https://github.com/NISP-GmbH/SLURM)
+### Slurm
+
+* [Slurm Linux Installer](https://github.com/NISP-GmbH/SLURM)
 The fastest way to get Slurm installed in your environment.
 
-### Reprise License Manager (RLM) : [For Linux](https://github.com/NISP-GmbH/RLM_for_Linux)
+### Reprise License Manager (RLM)
+
+* [RLM Linux Installer](https://github.com/NISP-GmbH/RLM_for_Linux)
 Can be used to provide, with public or private cloud, a way to storage, manage and activate licenses.
