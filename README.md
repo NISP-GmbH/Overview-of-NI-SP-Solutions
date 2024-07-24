@@ -1,6 +1,6 @@
 # NI SP Guides
 
-Welcome to our collection of guides. Here you can find a very complete documentation about NICE DCV, EF Portal, Authentication, SLURM etc and related services.
+Welcome to our collection of guides. Here you can find a very complete documentation and tools about NICE DCV, EF Portal, Authentication, SLURM etc and related services.
 
 ## Documentation
 
