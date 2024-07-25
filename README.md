@@ -32,3 +32,7 @@ We support a bunch of scripts that will help you to fastly get the services bein
 ### Reprise License Manager (RLM)
 
 * __[RLM Linux Installer](https://github.com/NISP-GmbH/RLM_for_Linux)__ Can be used to provide, with public or private cloud, a way to storage, manage and activate licenses.
+
+## Cloud services
+
+* __ AWS AMI NICE DCV images__ A ready-to-go way to get your NICE DCV under High End servers
