@@ -35,4 +35,4 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 ## Cloud services
 
-* __ AWS AMI NICE DCV images__ A ready-to-go way to get your NICE DCV under High End servers
+* __AWS AMI NICE DCV images__ A ready-to-go way to get your NICE DCV under High End servers
