@@ -19,6 +19,8 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 * __DCV Installer:__ [For Linux](https://github.com/NISP-GmbH/DCV-Installer) and [For Windows](https://www.ni-sp.com/knowledge-base/dcv-installation/windows/) An easy way to setup DCV Server (with and without GPU support), with Session Manager (Agent, Broker, CLI and Gateway)
 
+* __DCV Log Rotation:__ [For Linux](https://github.com/NISP-GmbH/DCV-Log-Rotation) Log rotation script that will allow log rotation without restart DCV Server
+
 * __Collect DCV Logs:__ [For Linux](https://github.com/NISP-GmbH/Collect-DCV-Logs) Are you having problem? This script will collect all relevant info about your DCV Server environment, so you can open a ticket and attach the generated file to help the support.
 
 ### EF Portal
