@@ -13,7 +13,7 @@ Welcome to our collection of guides. Here you can find a very complete documenta
 
 We provide some ready to use containers that you can use to test our services.
 
-* __EF Portal:__ [Docker](https://github.com/NISP-GmbH/EF-DCV-Containers) A ready to use EnginFrame that can be integrated with Slurm, DCV Session Manager and SSSD (OpenLDAP and Active Directory).
+* __EF Portal:__ [For Linux](https://github.com/NISP-GmbH/EF-DCV-Containers) A ready to use EnginFrame that can is integrated with Slurm, DCV Session Manager and SSSD (OpenLDAP and Active Directory).
 
 ## Scripts
 
