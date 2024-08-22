@@ -9,6 +9,12 @@ Welcome to our collection of guides. Here you can find a very complete documenta
 * [NI SP Support page](https://support.ni-sp.com/): Open a ticket with NI SP Support team to get help with our services and scripts
 * [NI SP Contact page](https://www.ni-sp.com/contact/): Send us an e-mail about everything
 
+## Containers
+
+We provide some ready to use containers that you can use to test our services.
+
+* __EF Portal:__ [Docker](https://github.com/NISP-GmbH/EF-DCV-Containers) A ready to use EnginFrame that can be integrated with Slurm, DCV Session Manager and SSSD (OpenLDAP and Active Directory).
+
 ## Scripts
 
 We support a bunch of scripts that will help you to fastly get the services being installed and managed. An they are OpenSource! ;)
