@@ -17,7 +17,7 @@ We provide some ready to use containers that you can use to test our services.
 
 ## Scripts
 
-We support a bunch of scripts that will help you to fastly get the services being installed and managed. An they are OpenSource! ;)
+We support a bunch of scripts that will help you to fastly get the services being installed and managed. And they are OpenSource! ;)
 
 ### NICE DCV
 
