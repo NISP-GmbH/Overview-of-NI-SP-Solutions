@@ -34,7 +34,8 @@ We support a bunch of scripts that will help you to fastly get the services bein
 ### EF Portal
 
 * __[Collect EF Portal Logs](https://github.com/NISP-GmbH/Collect-EF-Portal-Logs)__ Are you trying to troubleshoot an issue? This script will collect all relevant info about your EF Portal environment, so you can open a ticket and attach the generated file to help the support.
-* __[Entra ID SSO](https://github.com/NISP-GmbH/EF-EntraID-SSO)__ A simple solution that will integrate Entra ID (that supports Windows Hello) and EF Portal (EnginFrame)
+* __[Entra ID SSO](https://github.com/NISP-GmbH/EF-EntraID-SSO)__ A simple solution that will integrate Entra ID (that supports Windows Hello) and EF Portal (EnginFrame).
+* __[EF Portal IDP OpenIDC SSO](https://github.com/NISP-GmbH/EF-IDP-OIDC)__ Do you have an IDP service based in OpenIDC? You can use your IDP to login in EF Portal.
 
 ### Slurm
 
