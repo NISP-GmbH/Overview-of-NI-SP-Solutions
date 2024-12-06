@@ -29,7 +29,7 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 * __Collect DCV Logs:__ [For Linux](https://github.com/NISP-GmbH/Collect-DCV-Logs) Are you having problem? This script will collect all relevant info about your DCV Server environment, so you can open a ticket and attach the generated file to help the support.
 
-* __DCV Setup GUI:__ [For Windows][https://github.com/NISP-GmbH/Windows-DCV-Setup-GUI] Configure DCV Server and DCV Session Manager without have to manually edit Windows registries, using a visual interface.
+* __DCV Setup GUI:__ [For Windows](https://github.com/NISP-GmbH/Windows-DCV-Setup-GUI) Configure DCV Server and DCV Session Manager without have to manually edit Windows registries, using a visual interface.
 
 ### EF Portal
 
