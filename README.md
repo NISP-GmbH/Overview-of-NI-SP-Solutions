@@ -21,7 +21,7 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 #### NISP
 
-* __NISP Installer:___ [For Linux](https://github.com/NISP-GmbH/NISP-Installer) Install EnginFrame Portal, DCV Server and SLURM in one simple command, without have to do anything!
+* __NISP Installer:__ [For Linux](https://github.com/NISP-GmbH/NISP-Installer) Install EnginFrame Portal, DCV Server and SLURM in one simple command, without have to do anything!
 
 #### NICE DCV
 
