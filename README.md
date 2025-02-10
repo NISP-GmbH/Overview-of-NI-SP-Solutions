@@ -19,6 +19,10 @@ We provide some ready to use containers that you can use to test our services.
 
 We support a bunch of scripts that will help you to fastly get the services being installed and managed. And they are OpenSource! ;)
 
+#### NISP
+
+* __NISP Installer:___ [For Linux](https://github.com/NISP-GmbH/NISP-Installer) Install EnginFrame Portal, DCV Server and SLURM in one simple command, without have to do anything!
+
 #### NICE DCV
 
 * __DCV Managament:__ [For Linux](https://github.com/NISP-GmbH/DCV-Management-Linux) and [For Windows](https://github.com/NISP-GmbH/DCV-Management-Windows) A powerful tool that will install an API service in your Linux that can control sessions (create, close, timeout) and create session during the login.
