@@ -19,7 +19,7 @@ We provide some ready to use containers that you can use to test our services.
 
 We support a bunch of scripts that will help you to fastly get the services being installed and managed. And they are OpenSource! ;)
 
-### NICE DCV
+#### NICE DCV
 
 * __DCV Managament:__ [For Linux](https://github.com/NISP-GmbH/DCV-Management-Linux) and [For Windows](https://github.com/NISP-GmbH/DCV-Management-Windows) A powerful tool that will install an API service in your Linux that can control sessions (create, close, timeout) and create session during the login.
 
@@ -35,18 +35,18 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 * __DCV Download mirror:__ [Alternative mirror to download Amazon DCV packages.](https://cdn.ni-sp.com/) They are being synced every 12 hours with the official mirror. SHA256 is always checked!
 
-### EF Portal
+#### EF Portal
 
 * __[EF Portal Installer](https://github.com/NISP-GmbH/EF-Portal-Installer/tree/main)__ Setup EF Portal without any interaction. Easy and fast!
 * __[Collect EF Portal Logs](https://github.com/NISP-GmbH/Collect-EF-Portal-Logs)__ Are you trying to troubleshoot an issue? This script will collect all relevant info about your EF Portal environment, so you can open a ticket and attach the generated file to help the support.
 * __[Entra ID SSO](https://github.com/NISP-GmbH/EF-EntraID-SSO)__ A simple solution that will integrate Entra ID (that supports Windows Hello) and EF Portal (EnginFrame).
 * __[IDP OpenIDC SSO](https://github.com/NISP-GmbH/EF-IDP-OIDC)__ Do you have an IDP service based in OpenIDC? You can use your IDP to login in EF Portal.
 
-### Slurm
+#### Slurm
 
 * __[Slurm Linux Installer](https://github.com/NISP-GmbH/SLURM)__ The fastest way to get Slurm installed in your environment.
 
-### Reprise License Manager (RLM)
+#### Reprise License Manager (RLM)
 
 * __[RLM Linux Installer](https://github.com/NISP-GmbH/RLM_for_Linux)__ Can be used to provide, with public or private cloud, a way to storage, manage and activate licenses.
 
