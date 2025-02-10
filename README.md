@@ -33,6 +33,8 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 * __DCV Setup GUI:__ [For Windows](https://github.com/NISP-GmbH/Windows-DCV-Setup-GUI) Configure DCV Server and DCV Session Manager without have to manually edit Windows registries, using a visual interface.
 
+* __DCV Download mirror:__ [Alternative mirror to download Amazon DCV packages.](https://cdn.ni-sp.com/) They are being synced every 12 hours with the official mirror. SHA256 is always checked!
+
 ### EF Portal
 
 * __[EF Portal Installer](https://github.com/NISP-GmbH/EF-Portal-Installer/tree/main)__ Setup EF Portal without any interaction. Easy and fast!
