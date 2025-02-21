@@ -56,4 +56,4 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 ## Cloud services
 
-* __[AWS AMI NICE DCV images](https://aws.amazon.com/marketplace/seller-profile?id=06366335-0d99-4d5e-8cb7-88bb2bdd5689)__ Ready-to-start DCV AMIs for many OS cases on AWS High End servers
+* __[AWS DCV AMIs](https://aws.amazon.com/marketplace/seller-profile?id=06366335-0d99-4d5e-8cb7-88bb2bdd5689)__ Ready-to-go DCV AMIs for many OS cases on AWS High End servers
