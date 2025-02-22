@@ -54,6 +54,6 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 * __[RLM Linux Installer](https://github.com/NISP-GmbH/RLM_for_Linux)__ Can be used to provide, with public or private cloud, a way to storage, manage and activate licenses.
 
-## Cloud services
+## Cloud services / DCV AWS AMIs
 
-* __[AWS DCV AMIs](https://aws.amazon.com/marketplace/seller-profile?id=06366335-0d99-4d5e-8cb7-88bb2bdd5689)__ Ready-to-go DCV AMIs for many OS cases on AWS High End servers
+* __[AWS DCV AMIs](https://aws.amazon.com/marketplace/seller-profile?id=06366335-0d99-4d5e-8cb7-88bb2bdd5689)__ Ready-to-go DCV AMIs for many OS cases on AWS High End servers. In case link does not work here is the link: https://aws.amazon.com/marketplace/seller-profile?id=06366335-0d99-4d5e-8cb7-88bb2bdd5689
