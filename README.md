@@ -25,7 +25,7 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 #### NICE DCV
 
-* __DCV Managament:__ [For Linux](https://github.com/NISP-GmbH/DCV-Management-Linux) and [For Windows](https://github.com/NISP-GmbH/DCV-Management-Windows) A powerful tool that will install an API service in your Linux that can control sessions (create, close, timeout) and create session during the login.
+* __DCV Management:__ [For Linux](https://github.com/NISP-GmbH/DCV-Management-Linux) and [For Windows](https://github.com/NISP-GmbH/DCV-Management-Windows) A powerful tool that will install an API service in your Linux that can control sessions (create, close, timeout) and create session during the login.
 
 * __DCV Installer:__ [For Linux](https://github.com/NISP-GmbH/DCV-Installer) and [For Windows](https://www.ni-sp.com/knowledge-base/dcv-installation/windows/) An easy way to setup DCV Server (with and without GPU support), with Session Manager (Agent, Broker, CLI and Gateway)
 
