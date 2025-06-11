@@ -33,7 +33,7 @@ We support a bunch of scripts that will help you to fastly get the services bein
 
 * __DCV Log Rotation:__ [For Linux](https://github.com/NISP-GmbH/DCV-Log-Rotation) Log rotation script that will allow log rotation without restart DCV Server
 
-* __Collect DCV Logs:__ [For Linux](https://github.com/NISP-GmbH/Collect-DCV-Logs) Are you having problem? This script will collect all relevant info about your DCV Server environment, so you can open a ticket and attach the generated file to help the support.
+* __Collect DCV Logs:__ [For Linux](https://github.com/NISP-GmbH/Collect-DCV-Logs) [For Windows](https://github.com/NISP-GmbH/Collect-Windows-DCV-Logs) Are you having problem? This script will collect all relevant info about your DCV Server environment, so you can open a ticket and attach the generated file to help the support.
 
 * __DCV Setup GUI:__ [For Windows](https://github.com/NISP-GmbH/Windows-DCV-Setup-GUI) Configure DCV Server and DCV Session Manager without have to manually edit Windows registries, using a visual interface.
 
