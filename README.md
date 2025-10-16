@@ -64,3 +64,6 @@ In case link does not work here is the link: https://aws.amazon.com/marketplace/
 #### NICE DCV Server
 
 * __[Dcvix Stats](https://github.com/dcvix/dcvix-stats)__ A GUI to display statistics from a NICE DCV server log file.
+
+#### NICE DCV CLIENT
+* __[focus-mode-switcher](https://github.com/diegocortassa/focus-mode-switcher)__ If you are using multiple screens in full screen under GNOME 3 Shell environment, you can avoid the click to active the screen mouse focus using this GNOME Shell extension.
